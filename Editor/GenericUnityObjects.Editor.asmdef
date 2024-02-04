@@ -2,16 +2,17 @@
     "name": "GenericUnityObjects.Editor",
     "rootNamespace": "GenericUnityObjects.Editor",
     "references": [
-        "SolidUtilities.Editor",
-        "TypeReferences.Editor",
-        "GenericUnityObjects",
-        "TypeReferences",
-        "SolidUtilities",
         "EasyButtons.Editor",
-        "Unity.Settings.Editor",
-        "UnityDropdown.Editor",
+        "ExtEvents",
+        "GenericUnityObjects",
         "MissingScriptType.Editor",
-        "ExtEvents"
+        "Siccity.SerializableCallback",
+        "SolidUtilities",
+        "SolidUtilities.Editor",
+        "TypeReferences",
+        "TypeReferences.Editor",
+        "Unity.Settings.Editor",
+        "UnityDropdown.Editor"
     ],
     "includePlatforms": [
         "Editor"

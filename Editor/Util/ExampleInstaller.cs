@@ -14,7 +14,7 @@
     /// </summary>
     public static class ExampleInstaller
     {
-        [UsedImplicitly]
+        // [UsedImplicitly]
         public static void AddConcreteClasses<TObject>(KeyValuePair<Type, Type[]>[] typesToAdd, Action afterAddingTypes)
             where TObject : Object
         {
